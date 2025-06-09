@@ -3,7 +3,6 @@
 <h4>
   -Etec Antônio Furlan - Barueri<br>
 </h4>
-<h2>
 <h3>
   <br>Planejando aprimorar as habilidades em:
 </h3>
@@ -12,7 +11,7 @@
     <br>-Linguagem orientada a objetos (POO),
     <br>-Designs para melhor experiência de usuário.
   </h4>
-</h2>
+
 
 
 ## Redes Sociais:
