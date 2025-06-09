@@ -4,7 +4,7 @@
   -Etec Antônio Furlan - Barueri<br>
 </h4>
 <h3>
-  <br>Planejando aprimorar as habilidades em:
+  Planejando aprimorar as habilidades em:
 </h3>
   <h4>
     -Backend,
