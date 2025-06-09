@@ -1,13 +1,13 @@
 # Sobre Mim:
 <h3>Estudando em:</h3>
 <h4>
-  <br>-Etec Antônio Furlan - Barueri<br>
+  -Etec Antônio Furlan - Barueri<br>
 </h4>
 <h3>
   <br>Planejando aprimorar as habilidades em:
 </h3>
   <h4>
-    <br>-Backend,
+    -Backend,
     <br>-Linguagem orientada a objetos (POO),
     <br>-Designs para melhor experiência de usuário.
   </h4>
