@@ -1,5 +1,5 @@
 # Sobre Mim:
-Estudando em:<br>-Etec Antônio Furlan - Barueri<br><br>Planejando aprimorar as habilidades em:<br>Backend,<br>Linguagem orientada a objetos (POO),<br>Designs para melhor experiência de usuário.
+<h2>Estudando em:</h2><h3><br>-Etec Antônio Furlan - Barueri<br></h3><h2><br>Planejando aprimorar as habilidades em:</h2><h3><br>Backend,<br>Linguagem orientada a objetos (POO),<br>Designs para melhor experiência de usuário</h3>.
 
 
 ## Redes Sociais:
