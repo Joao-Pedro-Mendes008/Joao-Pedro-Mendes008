@@ -1,7 +1,9 @@
 # <h2>Sobre Mim:</h2>
+<h3> Cursado em: <h3>
+  <h4>Desenvolvimento de Sistemas (Etec - Antônio Furlan)<h4>
   <h3>Estudando em:</h3>
 <h4>
-  -Etec Antônio Furlan - Barueri<br>
+  Fatec - Carapicuíba<br>
 </h4>
 <h3>
   Planejando aprimorar as habilidades em:
