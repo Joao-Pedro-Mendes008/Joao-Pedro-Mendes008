@@ -10,8 +10,8 @@
 </h3>
   <h4>
     -Backend,
-    <br>-Linguagem orientada a objetos (POO),
-    <br>-Designs para melhor experiência de usuário.
+    <br>-Programação orientada a objetos (POO),
+    <br>-Infraestrutura de software.
   </h4>
 
 _____________________________________________________________________________________________________________
