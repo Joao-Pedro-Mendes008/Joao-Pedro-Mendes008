@@ -1,5 +1,5 @@
 # <h2>Sobre Mim:</h2>
-<h3> Cursado em: <h3>
+<h3> Formado em: <h3>
   <h4>Desenvolvimento de Sistemas (Etec - Antônio Furlan)<h4>
   <h3>Estudando em:</h3>
 <h4>
